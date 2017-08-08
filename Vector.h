@@ -8,6 +8,9 @@ using namespace std;
 /*
 	Header for for the Vector. Constructors are implemented and the methods and variables
 	are declared
+	
+	Good Link to start learning C++:
+	https://www.tutorialspoint.com/cplusplus/
 */
 template <class T>
 struct Vector {
