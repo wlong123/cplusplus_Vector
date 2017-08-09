@@ -7,7 +7,8 @@ using namespace std;
 
 /*
 	Header for for the Vector. Constructors are implemented and the methods and variables
-	are declared
+	are declared. Make sure you look into using pointers before you start your Vector. Also
+	putting tempate <class T> before all of your methods will allow you to use generics.
 	
 	Good Link to start learning C++:
 	https://www.tutorialspoint.com/cplusplus/
